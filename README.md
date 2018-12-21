@@ -18,7 +18,7 @@ The  [platform](https://pearl-ai.github.io/) is a single paged application, with
 * Monte Carlo Methods
 * Temporal Difference Learning
 
-***More content to be updated regularly.***
+***(More content to be updated regularly)***
 
 ## Coding Assignments
 
