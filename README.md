@@ -8,7 +8,7 @@ Feel free to raise issues or contribute to the course content. We continuously s
 
 ## Episodes
 
-The  platform is a single paged application, with the course content present inside the "Episodes" section. Each episode is basically a seperate chapter. Why we named it "*episode*" is something you will figure out.
+The  platform is a single paged application, with the course content present inside the "Episodes" section. Each episode is basically a seperate chapter. Why we named each chapter an "*episode*" is something you will figure out.
 
 ### Current Episodes
 * Introduction
