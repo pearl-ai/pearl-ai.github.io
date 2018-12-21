@@ -1,6 +1,6 @@
 # Description
 
-P.E.A.R.L. is an open source DIY platform for understanding Reinforcement Learning. You learn at your own pace, through chapterwise slideshows, and then test your understanding on the corresponding coding assignments.
+[P.E.A.R.L.](https://pearl-ai.github.io/) is an open source DIY platform for understanding Reinforcement Learning. You learn at your own pace, through chapterwise slideshows, and then test your understanding on the corresponding coding assignments.
 
 Slideshows are meant to provide better intuitions, using illustrations.
 
@@ -8,7 +8,7 @@ Feel free to raise issues or contribute to the course content. We continuously s
 
 ## Episodes
 
-The  [platform](https://pearl-ai.github.io/) is a single paged application, with the course content present inside the "Episodes" section. Each episode is basically a seperate chapter. Why we named it "*episode*" is something you will figure out.
+The  platform is a single paged application, with the course content present inside the "Episodes" section. Each episode is basically a seperate chapter. Why we named it "*episode*" is something you will figure out.
 
 ### Current Episodes
 * Introduction
